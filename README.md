@@ -2,7 +2,7 @@
 
 ## About me
 
-🎓 I'm currently an undergraduate at **B.Sc.(Hons) Engineering in Computer Science Department, University of Moratuwa, Sri Lanka.**
+🎓 I'm currently an undergraduate student pursuing a **B.Sc. (Hons) Engineering** in Computer Science Department, **University of Moratuwa, Sri Lanka.**
 
 🔧 Currently building: Nano Processor Version 2  
 
@@ -31,8 +31,15 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-Expert-9999FF?logo=adobe&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-Expert-00B900?logoColor=white)
 
+## 👨🏻‍🎓 Courses
+- [Python for Beginners by Department of Computer Science & Engineering, University of Moratuwa](https://open.uom.lk/verify)
+- [Problem Solving (Basic) by HackerRank](https://www.hackerrank.com/certificates/iframe/2cada0a0c6e9)
+- [Introduction to C++ by Sololearn](https://www.sololearn.com/en/certificates/CC-LD2L040J)
+- [Introduction to Java by Sololearn](https://www.sololearn.com/certificates/CC-XYUXO4XP)
+- [Java Intermediate by Sololearn](https://www.sololearn.com/certificates/CC-6ZVSJRR8)
+
 ## 📈 GitHub Stats
-![Rashmika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakaThabrew&show_icons=true&theme=square)
+![Lakmana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakaThabrew&show_icons=true&theme=square)
 
 ## 🔗 Contact me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lakmana-thabrew-55276b286/)
