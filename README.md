@@ -4,7 +4,7 @@
 
 🎓 I'm currently an undergraduate student pursuing a **B.Sc. (Hons) Engineering** in Computer Science Department, **University of Moratuwa, Sri Lanka.**
 
-🔧 Currently building: Nano Processor Version 2  
+🔧 Currently building: Etherion_Clash of Realme, CMD Based game  
 
 💡 Interested in
 - mathematics
