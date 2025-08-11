@@ -37,14 +37,16 @@
 - [Introduction to C++ by Sololearn](https://www.sololearn.com/en/certificates/CC-LD2L040J)
 - [Introduction to Java by Sololearn](https://www.sololearn.com/certificates/CC-XYUXO4XP)
 - [Java Intermediate by Sololearn](https://www.sololearn.com/certificates/CC-6ZVSJRR8)
+- [ML for beginners](https://www.sololearn.com/certificates/CC-QAVQM7IU)
+- [AI in Data Analysis](https://www.sololearn.com/certificates/CC-LSNVYKQJ)
 
 ## 📈 GitHub Stats
 ![Lakmana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakaThabrew&show_icons=true&theme=square)
 
 ## 🔗 Contact me
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lakmana-thabrew-55276b286/)
+### LinkedIn:  [lakmana_thabrew](https://www.linkedin.com/in/lakmana-thabrew-55276b286/)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](lakmanat.23@cse.mrt.ac.lk)
+### Email: [Gmail](lakmanat.23@cse.mrt.ac.lk)
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100090132404413)
+### Facebook: [Lakmana Thabrew](https://facebook.com/profile.php?id=100090132404413)
 
