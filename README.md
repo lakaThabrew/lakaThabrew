@@ -4,7 +4,7 @@
 
 🎓 I'm currently an undergraduate student pursuing a **B.Sc. (Hons) Engineering** in Computer Science Department, **University of Moratuwa, Sri Lanka.**
 
-🔧 Currently building: Etherion_Clash of Realme, CMD Based game  
+🔧 Currently building: BrightBuy, Online retail management System
 
 💡 Interested in
 - mathematics
