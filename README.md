@@ -18,18 +18,28 @@
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?ogo=cplusplus&logoColor=fff&style=plastic)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599Clogo=cplusplus&logoColor=fff&style=plastic)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+<br>
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) 
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
+<br>
+[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+
 
 ## 🧰 Tools & Software
 ![Canva Badge](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=plastic)
 ![GIMP Badge](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=plastic)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-Expert-31A8FF?logo=adobe&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-Expert-FF9A00?logo=adobe&logoColor=white)
+<br>
 ![Adobe After Effects](https://img.shields.io/badge/After%20Effects-Expert-9999FF?logo=adobe&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-Expert-9999FF?logo=adobe&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-Expert-00B900?logoColor=white)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ## 👨🏻‍🎓 Courses
 - [Python for Beginners by Department of Computer Science & Engineering, University of Moratuwa](https://open.uom.lk/verify)
