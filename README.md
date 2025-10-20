@@ -54,6 +54,7 @@
 ![Lakmana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakaThabrew&show_icons=true&theme=square)
 
 ## 🔗 Contact me
+### Portfolio: [WEB](https://lakathabrew.github.io/my-portfolio/)
 ### LinkedIn:  [lakmana_thabrew](https://www.linkedin.com/in/lakmana-thabrew-55276b286/)
 
 ### Email: [Gmail](lakmanat.23@cse.mrt.ac.lk)
