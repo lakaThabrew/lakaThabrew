@@ -50,9 +50,6 @@
 - [ML for beginners](https://www.sololearn.com/certificates/CC-QAVQM7IU)
 - [AI in Data Analysis](https://www.sololearn.com/certificates/CC-LSNVYKQJ)
 
-## 📈 GitHub Stats
-![Lakmana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakaThabrew&show_icons=true&theme=square)
-
 ## 🔗 Contact me
 ### Portfolio: [WEB](https://lakathabrew.github.io/my-portfolio/)
 ### LinkedIn:  [lakmana_thabrew](https://www.linkedin.com/in/lakmana-thabrew-55276b286/)
