@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Lakmana Thabrew.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5409DA&center=true&vCenter=true&multiline=true&width=1000&lines=Frontend+Backend+Dev+%7C+Graphic+Designer+%7C+Content+Creator;" alt="Typing SVG" />
+</p>
+
 ## About me
 
 🎓 I'm currently an undergraduate student pursuing a **B.Sc. (Hons) Engineering** in Computer Science Department, **University of Moratuwa, Sri Lanka.**
@@ -13,33 +17,21 @@
 - low-level systems
 - embedded tech
 
-## 🛠️ Tech Stack
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?ogo=cplusplus&logoColor=fff&style=plastic)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599Clogo=cplusplus&logoColor=fff&style=plastic)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-<br>
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
-<br>
-[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+## 🛠️ Languages & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,html,css,js,java,cpp,python,c,mysql,git,ubuntu,flutter,dart" />
+</p>
+
+## 🤖 AI Frameworks
+<p align="center">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama,huggingface,langchain,chatgpt,groq,gemini"/>
+</p>
 
 ## 🧰 Tools & Software
-![Canva Badge](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=plastic)
-![GIMP Badge](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=plastic)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-Expert-31A8FF?logo=adobe&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-Expert-FF9A00?logo=adobe&logoColor=white)
-<br>
-![Adobe After Effects](https://img.shields.io/badge/After%20Effects-Expert-9999FF?logo=adobe&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-Expert-9999FF?logo=adobe&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-Expert-00B900?logoColor=white)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+<p align="center">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,photoshop,gimp,illustrator,aftereffects,premiere,vscode"/>
+</p>
 
 ## 👨🏻‍🎓 Courses
 - [Python for Beginners by Department of Computer Science & Engineering, University of Moratuwa](https://open.uom.lk/verify)
@@ -51,10 +43,30 @@
 - [AI in Data Analysis](https://www.sololearn.com/certificates/CC-LSNVYKQJ)
 
 ## 🔗 Contact me
-### Portfolio: [WEB](https://lakathabrew.github.io/my-portfolio/)
-### LinkedIn:  [lakmana_thabrew](https://www.linkedin.com/in/lakmana-thabrew-55276b286/)
 
-### Email: [Gmail](lakmanat.23@cse.mrt.ac.lk)
+<p align="center">
+  <a href="lakmanat.23@cse.mrt.ac.lk" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="60" width="80" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/lakmana-thabrew/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="60" width="80" alt="LinkedIn" />
+  </a>
+  <a href="https://www.github.com/lakaThabrew" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" height="60" width="80" alt="Github" />
+  </a>
+  <a href="https://lakathabrew.github.io/my-portfolio/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome&theme=light" height="60" width="80" alt="Web" />
+  </a>
+  <a href="https://facebook.com/profile.php?id=100090132404413" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=light" height="60" width="80" alt="Web" />
+  </a>
+</p>
 
-### Facebook: [Lakmana Thabrew](https://facebook.com/profile.php?id=100090132404413)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakaThabrew&show_icons=true&theme=tokyonight&hide_border=true"  height="2000" width="700"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakaThabrew&layout=compact&theme=tokyonight&hide_border=true" height="2000" width="700" />
+</p>
+
 
