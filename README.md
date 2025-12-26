@@ -1,51 +1,102 @@
-## Hi there 👋 I'm Lakmana Thabrew.
+<h1 align="center">Hi 👋 I'm Lakmana Thabrew</h1>
+<h3 align="center">Computer Science Engineering Undergraduate @ University of Moratuwa</h3>
+
+<p align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BBFBFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Undergraduate;Mobile+App+%26+Embedded+Systems+Enthusiast;Building+Real-World+Projects" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5409DA&center=true&vCenter=true&multiline=true&width=1000&lines=Full+Stack+Dev+%7C+Graphic+Designer+%7C+Content+Creator+%7C+Mobile+App+Dev+%7C+Programmer;" alt="Typing SVG" />
 </p>
 
-## About me
+## 👨‍💻 About Me
 
-🎓 I'm currently an undergraduate student pursuing a **B.Sc. (Hons) Engineering** in Computer Science Department, **University of Moratuwa, Sri Lanka.**
+- 🎓 Computer Science Engineering undergraduate at **University of Moratuwa**
+- 🔧 Currently focused on **Mobile App Development & Full-Stack Systems**
+- 🧠 Strong interest in:
+  - Algorithms & Problem Solving  
+  - Low-level systems & microarchitecture  
+  - Embedded & performance-critical software
+- 🚀 I enjoy turning complex ideas into clean, working solutions
 
-🔧 Currently building: BrightBuy, Online retail management System
+## 🌱 Currently Learning
 
-💡 Interested in
-- mathematics
-- Problem Solving
-- microarchitecture
-- low-level systems
-- embedded tech
+- Advanced Data Structures & Algorithms  
+- Mobile App Architecture (Clean Architecture, MVVM)  
+- Embedded Systems & Low-Level Optimization  
+- AI-assisted development workflows
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
+### 💡 Core Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,html,css,js,java,cpp,python,c,mysql,git,ubuntu,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,java,cpp,python,c" />
 </p>
 
-## 🤖 AI Frameworks
+### 🌍 Web & Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,flutter,dart" />
+</p>
+
+### 🤖 AI & ML Tooling
 <p align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama,huggingface,langchain,chatgpt,groq,gemini"/>
 </p>
 
-## 🧰 Tools & Software
+### 🧰 Tools & Software
 <p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,photoshop,gimp,illustrator,aftereffects,premiere,vscode"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,photoshop,gimp,illustrator,aftereffects,premiere,vscode,figma,affinity"/>
 </p>
 
-## 👨🏻‍🎓 Courses
-- [Python for Beginners by Department of Computer Science & Engineering, University of Moratuwa](https://open.uom.lk/verify)
-- [Problem Solving (Basic) by HackerRank](https://www.hackerrank.com/certificates/iframe/2cada0a0c6e9)
-- [Introduction to C++ by Sololearn](https://www.sololearn.com/en/certificates/CC-LD2L040J)
-- [Introduction to Java by Sololearn](https://www.sololearn.com/certificates/CC-XYUXO4XP)
-- [Java Intermediate by Sololearn](https://www.sololearn.com/certificates/CC-6ZVSJRR8)
-- [ML for beginners](https://www.sololearn.com/certificates/CC-QAVQM7IU)
-- [AI in Data Analysis](https://www.sololearn.com/certificates/CC-LSNVYKQJ)
+## 📚 Certifications & Courses
+
+- 🧠 **AI / ML Engineer – Stage I** (SLIIT)
+- ⚡ **Fundamentals of Accelerated Data Science** – NVIDIA
+- 🐍 **Python for Beginners** – University of Moratuwa
+- 🧩 **Problem Solving (Basic)** – HackerRank
+- 💻 **C++ & Java Programming** – Sololearn
+- 🤖 **Machine Learning & AI in Data Analysis** – Sololearn
+
+## 📊 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lakaThabrew&theme=tokyonight))
+
+## 🚧 Featured Projects
+
+### 🎬 CineAI — AI Movie Recommendation System
+> AI-powered web application that recommends movies based on user preferences and behaviour  
+- 🎯 Personalized movie suggestions using recommendation logic  
+- 🧠 Full-stack implementation with clear frontend–backend separation  
+- 🌐 Designed as a real-world, user-facing product  
+- 🛠️ Tech Stack: React, Node.js, Express, APIs  
+
+🔗 **Repository:** https://github.com/lakaThabrew/CineAI
+
+---
+
+### 📍 GPS Alarm Web App
+> Location-based alert system that triggers notifications based on GPS position  
+- 🚨 Sends alerts when users reach predefined geographic locations  
+- 📱 Practical utility for travel reminders, safety, and automation  
+- 🌍 Uses browser geolocation and event-based logic  
+- 🛠️ Tech Stack: JavaScript, HTML, CSS, Geolocation API  
+
+🔗 **Repository:** https://github.com/lakaThabrew/GPS_Alarm_WebApp
+
+---
+
+### ⚙️ Nano Processor v3 — Digital Logic & Microarchitecture
+> A simple 4-bit nanoprocessor designed and implemented using VHDL  
+- 🧠 Includes instruction decoder, ROM modules, and test programs  
+- 🚀 Optimized third version with improved structure and performance  
+- 🏗️ Demonstrates understanding of low-level systems and computer architecture  
+- 🛠️ Tech Stack: VHDL, FPGA (BASYS 3)  
+
+🔗 **Repository:** https://github.com/lakaThabrew/Nano_processor_Version_3
 
 ## 🔗 Contact me
 
 <p align="center">
-  <a href="lakmanat.23@cse.mrt.ac.lk" target="_blank">
+  <a href="mailto:lakmanat.23@cse.mrt.ac.lk" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="60" width="80" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/lakmana-thabrew/" target="_blank">
@@ -62,11 +113,7 @@
   </a>
 </p>
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakaThabrew&show_icons=true&theme=tokyonight&hide_border=true"  height="2000" width="700"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakaThabrew&layout=compact&theme=tokyonight&hide_border=true" height="2000" width="700" />
-</p>
+
 
 
