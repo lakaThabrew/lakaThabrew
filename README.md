@@ -5,13 +5,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BBFBFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Undergraduate;Mobile+App+%26+Embedded+Systems+Enthusiast;Building+Real-World+Projects" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5409DA&center=true&vCenter=true&multiline=true&width=1000&lines=Full+Stack+Dev+%7C+Graphic+Designer+%7C+Content+Creator+%7C+Mobile+App+Dev+%7C+Programmer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5409DA&center=true&vCenter=true&multiline=true&width=1000&lines=Full+Stack+Dev+%7C+Graphic+Designer+%7C+Content+Creator+%7C+Mobile+App+Dev+%7C+Blogger;" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering undergraduate at **University of Moratuwa**
-- 🔧 Currently focused on **Mobile App Development & Full-Stack Systems**
+- 🔧 Currently focused on **NaviLogix**
 - 🧠 Strong interest in:
   - Algorithms & Problem Solving  
   - Low-level systems & microarchitecture  
