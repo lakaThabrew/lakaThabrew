@@ -34,7 +34,7 @@
 
 ### 🌍 Web & Mobile
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,flutter,dart,php" />
 </p>
 
 ### 🤖 AI & ML Tooling
