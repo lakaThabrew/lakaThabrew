@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5409DA&center=true&vCenter=true&multiline=true&width=1000&lines=Full+Stack+Dev+%7C+Graphic+Designer+%7C+Content+Creator+%7C+Mobile+App+Dev+%7C+Blogger;" alt="Typing SVG" />
 </p>
 
+
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering undergraduate at **University of Moratuwa**
@@ -58,7 +59,26 @@
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lakaThabrew&theme=tokyonight))
+
+
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakaThabrew&theme=dark" />
+<br></br>
+  <img title="🔥 Streak Stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lakaThabrew&theme=dark&hide_border=false" />
+</td>
+
+<td width="50%" align="center">
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lakaThabrew&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+
+</td>
+</tr>
+</table>
+</p>
 
 ## 🚧 Featured Projects
 
