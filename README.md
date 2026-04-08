@@ -72,7 +72,7 @@
 
 <td width="50%" align="center">
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lakaThabrew&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lakaThabrew&theme=dark"/>
 
 
 </td>
@@ -82,6 +82,60 @@
 
 ## 🚧 Featured Projects
 
+### 🛒 BrightBuy — Online Retail Management System
+
+> Full-stack e-commerce platform built to support digital retail transformation with advanced inventory and analytics
+
+- 🧾 Multi-role user system with dedicated admin dashboards
+- 📦 Variant-based inventory management with real-time stock updates
+- 💳 Secure payment integration and delivery estimation
+- 📊 Comprehensive business analytics and reporting
+- 📄 PDF report generation for business insights
+- 🛠️ Tech Stack: React, Node.js, MySQL, Tailwind CSS, RESTful APIs
+
+🔗 **Repository**: https://github.com/lakaThabrew/BrightBuy_db_project
+
+---
+### 🤖 EduMentor AI — Agent-Based Educational Assistant
+
+> AI-powered multi-agent system designed to deliver personalized learning experiences
+
+- 🧠 Multi-agent architecture for intelligent task handling
+- 📚 Personalized learning paths and adaptive tutoring
+- 📝 AI-generated quizzes and performance tracking
+- 💬 Natural language query understanding
+- 📊 Learning analytics dashboard for insights
+- 🛠️ Tech Stack: React, Node.js, Express, Python, LLMs, REST APIs, Tailwind CSS
+
+🔗 **Repository:** https://github.com/lakaThabrew/edumentor-ai
+
+---
+### 🏥 HealthSense — AI-Powered Health Monitoring System
+
+> Smart health tracking platform for monitoring and analyzing personal health data
+
+- 📈 Interactive dashboards for health data visualization
+- ❤️ Tracks vital metrics and analyzes trends over time
+- 🔐 Secure and scalable data management
+- 🤖 Designed for future AI-driven health predictions
+- 🛠️ Tech Stack: React, Node.js, Express, MongoDB, Chart.js, Tailwind CSS
+
+🔗 **Repository:** https://github.com/lakaThabrew/HealthSense
+
+---
+### ⌨️ TypeIQ — AI-Powered Typing Improvement Platform
+
+> Intelligent typing practice system with real-time feedback and personalized learning
+
+- ⚡ Real-time typing tests with speed & accuracy analysis
+- 🧠 AI-generated personalized practice sessions
+- 📊 Detailed performance analytics (WPM, errors, accuracy)
+- 🎯 Progressive skill-based learning system
+- 🛠️ Tech Stack: React, Node.js, MongoDB, Express, Gemini API, Tailwind CSS
+
+🔗 **Repository:** https://github.com/lakaThabrew/ai_typing_Tester
+
+---
 ### 🎬 CineAI — AI Movie Recommendation System
 > AI-powered web application that recommends movies based on user preferences and behaviour  
 - 🎯 Personalized movie suggestions using recommendation logic  
