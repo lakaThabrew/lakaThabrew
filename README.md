@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering undergraduate at **University of Moratuwa**
-- 🔧 Currently focused on **NaviLogix**
+- 🔧 Currently focused on **Smart Campus Digital Twin**
 - 🧠 Strong interest in:
   - Algorithms & Problem Solving  
   - Low-level systems & microarchitecture  
