@@ -170,20 +170,24 @@
 ## 🔗 Contact me
 
 <p align="center">
-  <a href="mailto:lakmanat.23@cse.mrt.ac.lk" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="60" width="80" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/lakmana-thabrew/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="60" width="80" alt="LinkedIn" />
-  </a>
-  <a href="https://www.github.com/lakaThabrew" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" height="60" width="80" alt="Github" />
-  </a>
-  <a href="https://lakathabrew.github.io/my-portfolio/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome&theme=light" height="60" width="80" alt="Web" />
-  </a>
-  <a href="https://facebook.com/profile.php?id=100090132404413" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=light" height="60" width="80" alt="Web" />
+  <a href="mailto:lakmanat.23@cse.mrt.ac.lk">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="60" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/lakmana-thabrew/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="60" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.github.com/lakaThabrew">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" height="60" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://lakathabrew.github.io/my-portfolio/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome&theme=light" height="60" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://facebook.com/profile.php?id=100090132404413">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=light" height="60" />
   </a>
 </p>
 
