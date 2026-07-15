@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering undergraduate at **University of Moratuwa**
-- 🔧 Currently focused on **Smart Campus Digital Twin**
+- 🔧 Currently focused on **Grocera Retail Intelligence Platform**
 - 🧠 Strong interest in:
   - Algorithms & Problem Solving  
   - Low-level systems & microarchitecture  
