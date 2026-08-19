@@ -9,6 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5409DA&center=true&vCenter=true&multiline=true&width=1000&lines=Full+Stack+Dev+%7C+Graphic+Designer+%7C+Content+Creator+%7C+Mobile+App+Dev+%7C+Blogger;" alt="Typing SVG" />
 </p>
 
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=lakaThabrew" />
 </p>
