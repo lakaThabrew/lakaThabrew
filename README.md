@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering undergraduate at **University of Moratuwa**
-- 🔧 Currently focused on the **Grocera Retail Intelligence Platform**
+- 🔧 Currently focused on the **ExfilTrack, A forensically sound Windows USB exfiltration triage tool**
 - 🧠 Strong interest in:
   - Algorithms & Problem Solving
   - Low-level systems & microarchitecture
